@@ -1,0 +1,4 @@
+#Mon Sep 04 11:38:52 CST 2017
+base.0=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

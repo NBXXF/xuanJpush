@@ -1,0 +1,7 @@
+#Mon Sep 04 11:38:52 CST 2017
+base.0=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_97d353ef5b4ec5ac77843f9049a7a3eb72f08911
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a5ee356ff7ba64dcbf12e524bc112a33ab2c72e/classes.dex
+base.1=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a5ee356ff7ba64dcbf12e524bc112a33ab2c72e
+file.0=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_97d353ef5b4ec5ac77843f9049a7a3eb72f08911/classes.dex

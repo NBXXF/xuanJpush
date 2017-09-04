@@ -1,0 +1,7 @@
+#Mon Sep 04 11:38:51 CST 2017
+base.0=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android-1.1.6_8e91ede01e9c2f0bf7592ee49dd71d3817fe431d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-3.0.8_6997e393a2670701c4ca7efee021afa3455a19b9/classes.dex
+base.1=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-3.0.8_6997e393a2670701c4ca7efee021afa3455a19b9
+file.0=/Users/icourt/Desktop/第三方开源项目/xuanJpush/JPushExample(707612)/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android-1.1.6_8e91ede01e9c2f0bf7592ee49dd71d3817fe431d/classes.dex
